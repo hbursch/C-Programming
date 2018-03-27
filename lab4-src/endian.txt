@@ -1,0 +1,6 @@
+Host Name		Architecture (x86, SPARC)		Endianess
+
+lore.cs.purdue.edu						
+
+data.cs.purdue.edu	x86_64 Intel(CPU E5-2650 0 @ 2.00Hz.	Machine is
+Little Endian.
