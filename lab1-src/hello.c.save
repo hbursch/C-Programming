@@ -1,0 +1,4 @@
+#include <stdio.h>
+int main() {
+	nprintf("Hello, CS240 students!\n");
+}
